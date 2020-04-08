@@ -4,7 +4,8 @@
 	"description": "A tibia Discord.js-commando.",
 	"main": "bot.js",
 	"scripts": {
-		"test": "node bot"
+		"test": "node bot",
+		"start": "node ."
 	},
 	"author": "",
 	"license": "GPL-3.0",
