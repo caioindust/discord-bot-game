@@ -14,7 +14,7 @@
 		"discord.js": "^11.6.4",
 		"dotenv": "^8.2.0",
 		"jimp": "^0.10.1",
-		"node-fetch": "^2.6.0",
+		"node-fetch": "^2.6.7",
 		"yargs-parser": "^18.1.2"
 	}
 }
